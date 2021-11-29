@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "banner.image.location",
+    "type": "java.lang.String",
+    "description": "A description for 'banner.image.location'"
+  },
+  {
+    "name": "banner.location",
+    "type": "java.lang.String",
+    "description": "A description for 'banner.location'"
+  },
+  {
+    "name": "ruta.recordar.clave",
+    "type": "java.lang.String",
+    "description": "A description for 'ruta.recordar.clave'"
+  },
+  {
+    "name": "email.servidor.server",
+    "type": "java.lang.String",
+    "description": "A description for 'email.servidor.server'"
+  },
+  {
+    "name": "email.servidor",
+    "type": "java.lang.String",
+    "description": "A description for 'email.servidor'"
+  },
+  {
+    "name": "sftp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.password'"
+  },
+  {
+    "name": "sftp.usuario",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.usuario'"
+  },
+  {
+    "name": "sftp.puerto",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.puerto'"
+  },
+  {
+    "name": "sftp.servidor",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.servidor'"
+  },
+  {
+    "name": "ruta.contacto.home",
+    "type": "java.lang.String",
+    "description": "A description for 'ruta.contacto.home'"
+  },
+  {
+    "name": "ruta.contacto.land",
+    "type": "java.lang.String",
+    "description": "A description for 'ruta.contacto.land'"
+  },
+  {
+    "name": "ruta.pagina",
+    "type": "java.lang.String",
+    "description": "A description for 'ruta.pagina'"
+  }
+]}
